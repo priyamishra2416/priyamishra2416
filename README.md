@@ -1,4 +1,4 @@
-# Hi 👋 I'm Priya Mishra
+#  I'm Priya Mishra
 
 🎓 BCA 3rd Year Student  
 💻 Full Stack Developer  
@@ -52,7 +52,7 @@
 
 ## 📌 Projects
 
-### 🛒 Dagon Shop (E-commerce Website - Django)
+### Dagon Shop (E-commerce Website - Django)
 - Add to Cart
 - Checkout System
 - Razorpay Payment Integration
@@ -60,14 +60,14 @@
 
 ---
 
-### 🍔 Food Delivery System (PHP Project)
+###  Food Delivery System (PHP Project)
 - Online Food Ordering System  
 - Cart & Order Management  
 - Admin Panel  
 
 ---
 
-### 📄 Resume Scanner (Python Project)
+###  Resume Scanner (Python Project)
 - Resume Parsing  
 - Skill Extraction  
 - Basic AI/Automation Concept  
