@@ -36,19 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyamishra2416&show_icons=true&theme=tokyonight)
-
-
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyamishra2416&layout=compact&theme=tokyonight)
-
----
 
 ## 📌 Projects
 
